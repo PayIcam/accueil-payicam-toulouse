@@ -227,11 +227,11 @@ $confSQL = $_CONFIG['conf_accueil'];
 			<div class="card border-dark" style="margin-bottom: 10px">
 				<div class="card-body">
 					<h4 class="card-title">Admin ventes en ligne</h4>
-					<p class="card-text">Administration des ventes d'articles en ligne, celle de shotgun.</p>
+					<p class="card-text">Pas dispo non plus, faudrait qu'on s'y mette sérieusement</p>
 				</div>
-				<div class="card-footer bg-transparent">
+				<!-- <div class="card-footer bg-transparent">
 					<a class="btn btn-primary" href="../shotgun/admin" target="_blank" role="button">Shotgun &raquo;</a>
-				</div>
+				</div> -->
 			</div>  
 
 		</div>  	<!-- /Ligne de 4 cartes admin  -->
