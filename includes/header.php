@@ -61,7 +61,7 @@
       <li class="nav-item dropdown" >
         <a  class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Liens utiles</a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a  class="dropdown-item" href="https://planning.icam.fr/lille/">Hyperplanning</a>
+          <a  class="dropdown-item" href="https://planning.icam.fr/toulouse/">Hyperplanning</a>
           <a  class="dropdown-item" href="https://moodle.icam.fr/">Moodle</a>
           <a  class="dropdown-item" href="https://portfolio.icam.fr/">Portfolio</a>
           <a  class="dropdown-item" href="http://www.icam-alumni.fr/">Annuaire Icam</a>        
